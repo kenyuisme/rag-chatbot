@@ -1,0 +1,55 @@
+Education
+
+Master’s in Business Analytics	April 2025
+Hult International Business School | Boston, United States of America
+Master’s in International Business 	                           August 2024
+Hult International Business School | Dubai, United Arab Emirates
+Bachelor of Science in Management	July 2021
+University of Warwick | Coventry, United Kingdom
+
+Professional Experience & Projects
+
+Growth & Strategy Analyst (M&A Project), Ferrari| Boston, United States of America	March 2025
+•	Modeled strategic growth and synergy scenarios to support corporate development; projected 7% revenue uplift and 6% cost synergies.
+•	Led cross-functional valuation and due diligence analysis (financial + strategic), supporting C-suite decision-making.
+•	Translated quantitative findings into executive-level recommendations, combining data science with business impact.
+
+Data Analyst, Eoliann | Boston, United States of America	February 2025
+•	Developed automated ETL pipelines (Python, SQL), reducing 30+ hours/month in manual tasks and enhancing internal data accuracy.
+•	Built and tuned predictive models (e.g., XGBoost) to detect climate-related risk patterns.
+•	Delivered insights via dashboards and visualizations (Seaborn, Matplotlib), supporting strategic decisions.
+
+Portfolio Analyst, Wells Fargo | Boston, United States of America	December 2024
+•	Built SQL-driven databases and dashboards for portfolio optimization.
+•	Created Python-based optimization tools for risk-return analysis and diversification.
+•	Delivered insights through visualizations using Tableau, enabling real-time business reporting.
+
+Strategic Consultant, Dubai Future Council | Dubai, United Arab Emirates	June 2024
+•	Conducted qualitative stakeholder analysis to identify strategic misalignments; co-designed digital-first frameworks to increase stakeholder engagement.
+•	Developed implementation roadmaps aligned with behavioral insights and marketing principles.
+	
+Additional Experience
+
+Product Analyst, Dubai Future Foundation | Dubai, United Arab Emirates	8 November 2023 – 22 December 2023
+•	Designed an AI-powered RAG tool for intelligent document search; ranked Top 4 among 20+ teams.
+•	Mapped UX friction points to drive feature enhancements and user engagement.
+
+AML Compliance Associate, AIA Shared Services Sdn. Bhd. | Cyberjaya, Malaysia	 March 2023 – August 2023
+•	Managed and analyzed 100+ screening cases/day for anti-money laundering compliance.
+•	Led a cleanup project identifying 5,000+ incorrectly processed cases, reducing backlog by 25%.
+•	Acted as cross-cultural liaison in bilingual (Mandarin-English) team; mentored 9 junior analysts.
+
+Intern, Teras Tekad Sdn. Bhd. | Kuala Lumpur, Malaysia	July 2020 – August 2020
+
+Customer Service Intern, Maersk Kanoo (Emirates) LLC | Dubai, United Arab Emirates 	June 2019 – August 2019
+
+
+Technical Skills
+Languages & Tools: Python | R | SQL | Tableau | Excel (Advanced) | Power BI | Power Query | Think-Cell
+Analytics: Predictive Modeling, Statistical Inference, Optimization, Data Visualization
+Data Engineering: JSON/XML/HTML Parsing | Web Scraping | BeautifulSoup | ETL
+Cloud & Infra: AWS | Microsoft Azure | MongoDB | NoSQL | SharePoint
+
+Additional Information
+Languages: English (Native) | Chinese/Mandarin (Native) | Cantonese (Beginner) | Japanese (Intermediate)
+Hobbies: Public Speaking | Startups ecosystems | Aikido | Rock Climbing | Any outdoor adventures such as hiking

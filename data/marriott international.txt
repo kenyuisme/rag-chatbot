@@ -1,0 +1,53 @@
+
+
+
+
+Chua Ken Yu (33205571)
+Analyzing Business Processes
+Pre-Course Assessment
+Chosen Organization:
+Marriott International 
+Neom, named after “New Future”, is a large-scale futuristic urban development project with US$500 billion in funding from Saudi Arabia’s sovereign wealth fund and will be located in the northwest of the Kingdom of Saudi Arabia (NEOM, n.d. a). Plans for four distinct regions of Neom have been officially revealed thus far with hints and speculation of more to come (Corder, 2023a; Ravenscroft, 2023). Among the four regions is Sindalah, a luxury resort artificial island in the Red Sea featuring attractions such as yachting, golf, luxury retail outlets and is planned to be open in 2024 (Arab News, 2023; NEOM, n.d. b). Marriott International (Marriott), an international powerhouse in the hotel industry with 31 brands and over 8500 properties across the planet, has signed an agreement with NEOM to open 3 hotels in Sindalah (Mitchell, 2023; Tapley, 2023; Arabian Business, 2023). This paper will identify some potential obstacles Marriott may face in this venture.
+Among the three hotels, two are planned to be part of Marriott’s Luxury Collection with the third being a part of Marriott’s Autograph Collection (Mitchell, 2023; Tapley, 2023). All three hotels are planned to be open in 2024 (Marriott International, 2023). While Marriott is no stranger to building and operating luxury hotels, these hotels in Sindalah will provide some new challenges. 
+Firstly, all importing, manufacturing, possession, and consumption of alcohol is illegal in Saudi Arabia for religious reasons (Fernandez 2023). There are claims and reports that sales of alcohol will be allowed in Sindalah (Jones, 2022; Corder, 2023b) as well as claims that Saudi Arabia will not legalise alcohol for tourists or at NEOM (Nihal, 2022). Many tourists and expatriates enjoy alcohol consumption and may choose to visit/work elsewhere if alcohol is unavailable (Wired, n.d.). With that said, there are also claims by experts in the field that alcohol is not necessary for tourism as the non-alcohol industry has been booming (FII Institute, 2023, 17:10). How Marriott intends to attract both tourists to visit and expatriates to work for them despite the lack of alcohol access will be one of their preliminary challenges and is a design risk that they will face (Irimia-Diéguez et al, 2014). If the rumours that Alcohol consumption will be allowed turn out to be true, Marriott faces a different challenge instead – how can we satisfy both the foreigners who want to consume alcohol and the locals who are against alcohol consumption for religious reasons at the same time? Even if they are not the ones drinking it, religious Muslims may feel uncomfortable if they are surrounded by people drinking alcohol, thus creating a sociocultural risk for Marriott (Algumzi, 2022).
+Sindalah is an island with no airports. Thus, the only method of delivering any supplies to Sindalah is to go by sea. While it is not yet clear what Marriott’s supply chain in Sindalah will look like, there is a high chance that they will be going through the Port of NEOM in Oxagon, as it is located very close to Sindalah and is purpose-built to function as a seaport for NEOM. The Port of NEOM, which opened for business in May 2023, is another futuristic project of NEOM featuring new groundbreaking technology and never-before-seen design goals such as fully automated port and warehouse equipment (NEOM, n.d. c; Nihal, 2023). New innovations come with their risks; while the Port of NEOM will likely stabilise in the future, there is a significant chance of minor and major issues occurring in its early years. Should Marriott rely too heavily on the Port of NEOM, they will be taking on a big operational risk as any small hiccup in the supply chain could quickly escalate into a major service failure since Marriott is operating not one, but three luxury hotels on a remote island where excellent quality is the bare minimum expectation. With that said Port of NEOM will likely be the most efficient route for Marriott’s supply chains, owing to its close location to Sindalah and cutting-edge technology. In addition, Marriott would also need to be cautious of supply chain disruption at any other step in the process and have contingency plans prepared well in advance.
+Marriott was chosen for this assessment as their operation in Sindalah can be described as “doing an old task in a new place”. Marriott is not new to operating luxury hotels, yet doing so in Sindalah will still present new challenges even to Marriott. Risk Management and Supply Chains will be especially relevant topics regarding the challenges discussed in this paper. As sustainability is a big topic in NEOM and thus will be expected of Sindalah and Marriott, the Synchronisation and Sustainability topic will likely also be very relevant if a more in-depth analysis were to be undertaken.
+ 
+References
+Algumzi, A. (2022). Risks and Challenges Associated with NEOM Project in Saudi Arabia: A Marketing Perspective. Journal of Risk and Financial Management, 15(9), 381.
+Arabian Business (2023, March 8). NEOM: Saudi Arabia announces three new hotels at Sindalah.
+Retrieved October 10, 2023 from https://www.arabianbusiness.com/industries/travel-hospitality/neom-saudi-arabia-announces-three-new-hotels-at-sindalah
+Arab News. (2023, August 24). NEOM partners with JLS Yachts as Sindalah island prepares for grand opening.
+Retrieved October 10, 2023 from https://www.arabnews.com/node/2360831/business-economy
+Corder, J. (2023a, April 8). Is NEOM adding five more regions to join Sindalah, The LINE, Trojena and Oxagon? Hotelier.
+Retrieved October 10, 2023 from https://www.hoteliermiddleeast.com/saudi-arabia/is-neom-adding-five-more-regions-to-join-sindalah-the-line-trojena-and-oxagon
+Corder, J. (2023b, September 22). Marriott Posts – Then Changes – Job Ads Mentioning Alcohol in Saudi Arabia. Skift.
+Retrieved October 13, 2023 from https://skift.com/2023/09/22/saudi-arabia-alcohol-in-hotels-job-ad-removed/
+Fernandez, K. (2023, October 3). Rules and laws on drugs and alcohol in Saudi Arabia. Expactica.
+Retrieved October 13, 2023 from https://www.expatica.com/sa/living/gov-law-admin/rules-and-laws-on-drugs-and-alcohol-in-saudi-arabia-71303/
+FII Institute. (2023, April 18). FII THINKpod S3/006 | John Pagano | Can tourism diversify economy sustainably? [Video]. Youtube.
+Retrieved October 13, 2023 from https://www.youtube.com/watch?v=9Ft6lHFkmdE
+Irimia-Diéguez, A. I., Sanchez-Cazorla, A., and Alfalla-Luque, R. (2014). Risk Management in Megaprojects. Proceedings In Social and Behavioral Sciences 119: 407–416.
+Jones, R. (2022, September 17). Alcohol-Free Saudi Arabia Plans Champagne and Wine Bars at Neom. The Wall Street Journal.
+Retrieved October 13, 2023 from https://www.wsj.com/articles/alcohol-free-saudi-arabia-plans-champagne-and-wine-bars-at-neom-11663421529
+Marriott International (2023, March 8). Marriott International Signs Agreement With Neom to Open Three Properties Within Luxury Island Destination Sindalah.
+Retrieved October 13, 2023 from https://news.marriott.com/news/2023/03/08/marriott-international-signs-agreement-with-neom-to-open-three-properties-within-luxury-island-destination-sindalah
+Mitchell, B. (2023, March 17). Marriott to open three hotels on Neom’s Sindalah island in Saudi Arabia. Blooloop.
+Retrieved October 10, 2023 from https://blooloop.com/technology/news/marriott-international-hotels-neom-sindalah-saudi-arabia/
+NEOM. (n.d. a). What is NEOM?
+Retrieved October 10, 2023, from https://www.neom.com/en-us/about
+NEOM. (n.d. b) Sindalah.
+Retrieved October 10, 2023 from https://www.neom.com/en-us/regions/sindalah
+NEOM. (n.d. c). Port of NEOM.
+Retrieved 14 October 2023 from https://www.neom.com/en-us/our-business/port-of-neom
+Nihal, M. (2022, May 16). Saudi Arabia not planning to legalise alcohol for tourists or at Neom, princess says. The National.
+Retrieved October 13, 2023 from https://www.thenationalnews.com/gulf-news/saudi-arabia/2022/05/26/saudi-arabia-not-planning-to-legalise-alcohol-for-tourists-or-at-neom-princess-says/
+Nihal, M. (2023, May 18). Saudi Arabia's multibillion-dollar Port of Neom opens for business. The National.
+Retrieved October 14, 2023 from https://www.thenationalnews.com/gulf-news/2023/05/18/port-of-neom-oxagon-saudi-arabia/
+Ravenscroft T. (2023, February 14). Everything you need to know about Saudi mega-project Neom. Dezeen.
+Retrieved October 10, 2023 from https://www.dezeen.com/2023/02/14/neom-guide-line-saudi-arabia/#
+Tapley, D. (2023, July 28). Four superb Sindalah Island hotels opening in Saudi Arabia. Fact.
+Retrieved October 10, 2023 from https://www.factmagazines.com/saudi-arabia/neom/hotels-neom/four-superb-sindalah-island-hotels-opening-in-saudi-arabia
+Wired (n.d.). A beach resort in Saudi Arabia’s NEOM is said to serve alcohol.
+Retrieved October 13, 2023 from https://wired.me/business/a-beach-resort-in-saudi-arabias-neom-is-said-to-serve-alcohol/
+
